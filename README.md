@@ -15,4 +15,5 @@ Undertake feature scaling and dimensionality reduction to streamline the data, e
  - **Data Splitting**: 
 Splitting the data into a train data to build the model and a test data to check if the model learnt on the data it was trained on.
 
-  
+  - Model building and prediction: 
+Building a logistic regression model, undertaking the prediction process and well as well as the K-means algorithm to further validate the model.
