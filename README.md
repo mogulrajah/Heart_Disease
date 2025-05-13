@@ -17,3 +17,6 @@ Splitting the data into a train data to build the model and a test data to check
 
   - Model building and prediction: 
 Building a logistic regression model, undertaking the prediction process and well as well as the K-means algorithm to further validate the model.
+
+ Model Evaluation: 
+After the development of our model and prediction we will use accuracy score and confusion metrics to evaluate our models.
